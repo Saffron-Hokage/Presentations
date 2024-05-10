@@ -32,7 +32,7 @@ Welcome to my presentation showcase repository! This repository contains a colle
 Feel free to view, download, or use these presentations for reference or inspiration. If you have any questions or would like to discuss any of the topics further, please don't hesitate to reach out to me.
 
 ## Contact
-For inquiries or collaborations, you can reach me at [your@email.com](mailto:your@email.com).
+For inquiries or collaborations, you can reach me at [vivek.dumbre@outlook.com](vivek.dumbre@outlook.com).
 
 ---
 
